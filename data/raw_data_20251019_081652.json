@@ -1,0 +1,53 @@
+[
+  {
+    "platform": "twitter",
+    "trend": "#AI",
+    "volume": 150000,
+    "timestamp": "2023-10-16T10:00:00",
+    "url": "https://twitter.com/hashtag/AI",
+    "region": "Worldwide"
+  },
+  {
+    "platform": "twitter",
+    "trend": "#Python",
+    "volume": 120000,
+    "timestamp": "2023-10-16T10:00:00",
+    "url": "https://twitter.com/hashtag/Python",
+    "region": "Worldwide"
+  },
+  {
+    "platform": "reddit",
+    "trend": "New AI developments",
+    "volume": 500,
+    "timestamp": "2023-10-16T10:00:00",
+    "url": "https://reddit.com/r/technology",
+    "comments": 150,
+    "region": "Worldwide"
+  },
+  {
+    "platform": "news",
+    "trend": "AI Revolution in Technology",
+    "volume": 0,
+    "timestamp": "2023-10-16T10:00:00",
+    "url": "https://example.com/ai-news",
+    "source": "Tech News",
+    "region": "United States"
+  },
+  {
+    "platform": "twitter",
+    "trend": "#MachineLearning",
+    "volume": 90000,
+    "timestamp": "2023-10-16T10:05:00",
+    "url": "https://twitter.com/hashtag/MachineLearning",
+    "region": "Worldwide"
+  },
+  {
+    "platform": "reddit",
+    "trend": "Python programming tips",
+    "volume": 300,
+    "timestamp": "2023-10-16T10:05:00",
+    "url": "https://reddit.com/r/python",
+    "comments": 80,
+    "region": "Worldwide"
+  }
+]

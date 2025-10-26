@@ -1,0 +1,157 @@
+{
+  "popularity": [
+    {
+      "platform": "news",
+      "trend": "Louvre museum in Paris closed after robbery, French culture minister says - BBC",
+      "region": "Paris",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Human remains believed to be missing Philadelphia beauty queen Kada Scott found after \u2018very specific\u2019 anonymous tip - New York Post",
+      "region": "United States",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Live No Kings protest updates: Massive crowds march, rally throughout Bay Area - ABC7 San Francisco",
+      "region": "United States",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Reinier de Ridder loses to Brendan Allen at UFC Fight Night in Canada - Al Jazeera",
+      "region": "Canada",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Breakthrough cancer therapy stops tumor growth without harming healthy cells - Science Daily",
+      "region": "United States",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Newspaper headlines: 'Andrew told Met to dig up dirt on Virginia' and 'Virginia's revenge' - BBC",
+      "region": "United States",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Pakistan and Afghanistan agree to new ceasefire after more than a week of deadly clashes - CNN",
+      "region": "Doha",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "news",
+      "trend": "Horoscope for Sunday, October 19, 2025 - Chicago Sun-Times",
+      "region": "United States",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    }
+  ],
+  "sentiment": [
+    {
+      "platform": "news",
+      "trend": "Louvre museum in Paris closed after robbery, French culture minister says - BBC",
+      "sentiment": "0.0",
+      "region": "Paris"
+    },
+    {
+      "platform": "news",
+      "trend": "Human remains believed to be missing Philadelphia beauty queen Kada Scott found after \u2018very specific\u2019 anonymous tip - New York Post",
+      "sentiment": "0.0",
+      "region": "United States"
+    },
+    {
+      "platform": "news",
+      "trend": "Live No Kings protest updates: Massive crowds march, rally throughout Bay Area - ABC7 San Francisco",
+      "sentiment": "0.0",
+      "region": "United States"
+    },
+    {
+      "platform": "news",
+      "trend": "Reinier de Ridder loses to Brendan Allen at UFC Fight Night in Canada - Al Jazeera",
+      "sentiment": "0.0",
+      "region": "Canada"
+    },
+    {
+      "platform": "news",
+      "trend": "Breakthrough cancer therapy stops tumor growth without harming healthy cells - Science Daily",
+      "sentiment": "0.5",
+      "region": "United States"
+    },
+    {
+      "platform": "news",
+      "trend": "Newspaper headlines: 'Andrew told Met to dig up dirt on Virginia' and 'Virginia's revenge' - BBC",
+      "sentiment": "0.0",
+      "region": "United States"
+    },
+    {
+      "platform": "news",
+      "trend": "Pakistan and Afghanistan agree to new ceasefire after more than a week of deadly clashes - CNN",
+      "sentiment": "0.0",
+      "region": "Doha"
+    },
+    {
+      "platform": "news",
+      "trend": "Horoscope for Sunday, October 19, 2025 - Chicago Sun-Times",
+      "sentiment": "0.0",
+      "region": "United States"
+    }
+  ],
+  "temporal": [
+    {
+      "platform": "news",
+      "timestamp": "2025-10-20T15:00:23.635597",
+      "region": "Paris",
+      "trend_count": 1
+    },
+    {
+      "platform": "news",
+      "timestamp": "2025-10-20T15:00:23.636602",
+      "region": "United States",
+      "trend_count": 2
+    },
+    {
+      "platform": "news",
+      "timestamp": "2025-10-20T15:00:24.333505",
+      "region": "Canada",
+      "trend_count": 1
+    },
+    {
+      "platform": "news",
+      "timestamp": "2025-10-20T15:00:24.333505",
+      "region": "United States",
+      "trend_count": 2
+    },
+    {
+      "platform": "news",
+      "timestamp": "2025-10-20T15:00:25.328461",
+      "region": "Doha",
+      "trend_count": 1
+    },
+    {
+      "platform": "news",
+      "timestamp": "2025-10-20T15:00:25.328461",
+      "region": "United States",
+      "trend_count": 1
+    }
+  ],
+  "engagement": []
+}

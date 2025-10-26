@@ -1,0 +1,74 @@
+[
+  {
+    "platform": "news",
+    "trend": "Louvre museum in Paris closed after robbery, French culture minister says - BBC",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:23.635597",
+    "url": "https://www.bbc.com/news/articles/c78z53v43g1o",
+    "source": "BBC News",
+    "region": "Paris"
+  },
+  {
+    "platform": "news",
+    "trend": "Human remains believed to be missing Philadelphia beauty queen Kada Scott found after \u2018very specific\u2019 anonymous tip - New York Post",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:23.636602",
+    "url": "https://nypost.com/2025/10/19/us-news/philadelphia-kada-scott-disappearance-police-recover-human-remains-behind-middle-school-after-keon-king-arrest/",
+    "source": "New York Post",
+    "region": "United States"
+  },
+  {
+    "platform": "news",
+    "trend": "Live No Kings protest updates: Massive crowds march, rally throughout Bay Area - ABC7 San Francisco",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:23.636602",
+    "url": "https://abc7news.com/live-updates/no-kings-protests-live-updates-rallies-held-san-francisco-bay-area/18033249/",
+    "source": "KGO-TV",
+    "region": "United States"
+  },
+  {
+    "platform": "news",
+    "trend": "Reinier de Ridder loses to Brendan Allen at UFC Fight Night in Canada - Al Jazeera",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:24.333505",
+    "url": "https://www.aljazeera.com/sports/2025/10/19/reinier-de-ridder-loses-to-brendan-allen-at-ufc-fight-night-in-canada",
+    "source": "Al Jazeera English",
+    "region": "Canada"
+  },
+  {
+    "platform": "news",
+    "trend": "Breakthrough cancer therapy stops tumor growth without harming healthy cells - Science Daily",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:24.333505",
+    "url": "https://www.sciencedaily.com/releases/2025/10/251018102122.htm",
+    "source": "Science Daily",
+    "region": "United States"
+  },
+  {
+    "platform": "news",
+    "trend": "Newspaper headlines: 'Andrew told Met to dig up dirt on Virginia' and 'Virginia's revenge' - BBC",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:24.333505",
+    "url": "https://www.bbc.com/news/articles/cglg98w1284o",
+    "source": "BBC News",
+    "region": "United States"
+  },
+  {
+    "platform": "news",
+    "trend": "Pakistan and Afghanistan agree to new ceasefire after more than a week of deadly clashes - CNN",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:25.328461",
+    "url": "https://www.cnn.com/2025/10/19/asia/afghanistan-pakistan-ceasefire-intl-hnk",
+    "source": "CNN",
+    "region": "Doha"
+  },
+  {
+    "platform": "news",
+    "trend": "Horoscope for Sunday, October 19, 2025 - Chicago Sun-Times",
+    "volume": 0,
+    "timestamp": "2025-10-20T15:00:25.328461",
+    "url": "https://chicago.suntimes.com/horoscopes/2025/10/19/horoscopes-today-sunday-october-19-2025",
+    "source": "Suntimes.com",
+    "region": "United States"
+  }
+]

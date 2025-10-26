@@ -1,0 +1,138 @@
+{
+  "popularity": [
+    {
+      "platform": "twitter",
+      "trend": "#AI",
+      "region": "Worldwide",
+      "mentions": 1,
+      "avg_volume": 150000.0,
+      "max_volume": 150000
+    },
+    {
+      "platform": "twitter",
+      "trend": "#Python",
+      "region": "Worldwide",
+      "mentions": 1,
+      "avg_volume": 120000.0,
+      "max_volume": 120000
+    },
+    {
+      "platform": "reddit",
+      "trend": "New AI developments",
+      "region": "Worldwide",
+      "mentions": 1,
+      "avg_volume": 500.0,
+      "max_volume": 500
+    },
+    {
+      "platform": "news",
+      "trend": "AI Revolution in Technology",
+      "region": "United States",
+      "mentions": 1,
+      "avg_volume": 0.0,
+      "max_volume": 0
+    },
+    {
+      "platform": "twitter",
+      "trend": "#MachineLearning",
+      "region": "Worldwide",
+      "mentions": 1,
+      "avg_volume": 90000.0,
+      "max_volume": 90000
+    },
+    {
+      "platform": "reddit",
+      "trend": "Python programming tips",
+      "region": "Worldwide",
+      "mentions": 1,
+      "avg_volume": 300.0,
+      "max_volume": 300
+    }
+  ],
+  "sentiment": [
+    {
+      "platform": "twitter",
+      "trend": "#AI",
+      "sentiment": "0.0",
+      "region": "Worldwide"
+    },
+    {
+      "platform": "twitter",
+      "trend": "#Python",
+      "sentiment": "0.0",
+      "region": "Worldwide"
+    },
+    {
+      "platform": "reddit",
+      "trend": "New AI developments",
+      "sentiment": "0.0",
+      "region": "Worldwide"
+    },
+    {
+      "platform": "news",
+      "trend": "AI Revolution in Technology",
+      "sentiment": "0.0",
+      "region": "United States"
+    },
+    {
+      "platform": "twitter",
+      "trend": "#MachineLearning",
+      "sentiment": "0.0",
+      "region": "Worldwide"
+    },
+    {
+      "platform": "reddit",
+      "trend": "Python programming tips",
+      "sentiment": "0.0",
+      "region": "Worldwide"
+    }
+  ],
+  "temporal": [
+    {
+      "platform": "twitter",
+      "timestamp": "2023-10-16T10:00:00",
+      "region": "Worldwide",
+      "trend_count": 2
+    },
+    {
+      "platform": "reddit",
+      "timestamp": "2023-10-16T10:00:00",
+      "region": "Worldwide",
+      "trend_count": 1
+    },
+    {
+      "platform": "news",
+      "timestamp": "2023-10-16T10:00:00",
+      "region": "United States",
+      "trend_count": 1
+    },
+    {
+      "platform": "twitter",
+      "timestamp": "2023-10-16T10:05:00",
+      "region": "Worldwide",
+      "trend_count": 1
+    },
+    {
+      "platform": "reddit",
+      "timestamp": "2023-10-16T10:05:00",
+      "region": "Worldwide",
+      "trend_count": 1
+    }
+  ],
+  "engagement": [
+    {
+      "platform": "twitter",
+      "region": "Worldwide",
+      "avg_engagement": 120000.0,
+      "max_engagement": 150000,
+      "total_trends": 3
+    },
+    {
+      "platform": "reddit",
+      "region": "Worldwide",
+      "avg_engagement": 400.0,
+      "max_engagement": 500,
+      "total_trends": 2
+    }
+  ]
+}
